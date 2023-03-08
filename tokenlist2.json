@@ -38,7 +38,7 @@
         "symbol": "USDC",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/main/logobesc.png"
+        "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
     },
     {
         "name": "XRP",
