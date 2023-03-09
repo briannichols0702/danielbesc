@@ -57,9 +57,9 @@
         "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png"
     },
     {
-        "name": "BFF",
+        "name": "BBF",
         "address": "0x0daefd45ff8bff37229eb5ca873ebe932a928466",
-        "symbol": "BFF",
+        "symbol": "BBF",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://bscscan.com/images/main/empty-token.png"
