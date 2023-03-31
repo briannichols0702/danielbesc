@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/blob/main/eth.png",
+  "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/main/eth.png",
   "keywords": [
     "usdc"
   ],
@@ -18,7 +18,7 @@
         "symbol": "USDC",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/blob/main/usdc.png"
+        "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/main/usdc.png"
     }
   ]
 }
