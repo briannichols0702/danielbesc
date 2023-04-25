@@ -9,7 +9,8 @@
   "tags": {},
   "logoURI": "https://trustwallet.com/assets/images/favicon.png",
   "keywords": [
-    "usdt"
+    "usdt",
+    "dogo"
   ],
   "tokens": [
     {
@@ -19,6 +20,14 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
+    },
+    {
+        "name": "DOGO",
+        "address": "0x23ba0142e3e7f6bb16a0829abd90bc41c82366d2",
+        "symbol": "DOGO",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://bscscan.com/images/main/empty-token.png"
     }
   ]
 }
