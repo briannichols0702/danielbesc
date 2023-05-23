@@ -44,6 +44,6 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://bscscan.com/token/images/busd_32_2.png"
-    },
+    }
   ]
 }
